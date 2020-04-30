@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Vou ter muito sucesso com programação
+
 if [ -d $1 ]
     then
         arquivos=`ls -l $1 | wc -l`
