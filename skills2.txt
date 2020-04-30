@@ -1,0 +1,9 @@
+Internet
+Unix
+Bash
+Python
+Postgresql
+
+Django
+C++
+Soft skills
