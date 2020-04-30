@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Eu sou Tryber ee... a lenda
+# Vou ter muito sucesso com programação
+
 
 if [ -d $1 ]
     then
