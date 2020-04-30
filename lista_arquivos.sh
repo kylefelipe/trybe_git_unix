@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Eu sou Tryber ee... a lenda
+
 if [ -d $1 ]
     then
         arquivos=`ls -l $1 | wc -l`
